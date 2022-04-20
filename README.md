@@ -1,0 +1,2 @@
+# motivacional-email-sender
+A motivacional quote email sending mini-project done with Python and smtplib. The project isn't run by the user at all, the script runs a bot that automatically sends a email containing a random motivacional quote picked from a database using the random library at a set day in the week - in this project, the set day was monday, because everyone would like to get a motivacional quote at the first working day of the week -. 
